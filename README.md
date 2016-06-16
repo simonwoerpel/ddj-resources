@@ -2,8 +2,6 @@
 
 [Simon Wörpel](http://medienrevolte.de), Datenjournalist [@correctiv_org](https://correctiv.org)
 
-
-
 ## ddj
 - Daten? Journalismus?
 - Datenjournalismus?
@@ -11,11 +9,11 @@
 - Daten-getriebener Journalismus?
 
 
-## vormals: car
+### vormals: car
 - "computer-assisted reporting"
 
 
-## ein alter Hut?
+### ein alter Hut?
 > The Guardian, May 5, 1821
 ![The Guardian: ddj in 1821](img/intro/guardian_full.jpg)
 
@@ -226,9 +224,6 @@ Jeder Kurvenverlauf hat einen Grund
 - Warum erzählst du mir das?
 - Wer ist der Absender?
 - [Pressekodex](http://www.presserat.de/pressekodex/pressekodex/#panel-ziffer_2____sorgfalt)
-
-
-## kritisch sein
 - Nicht jede Visualisierung ist journalistisch relevant
 - Rückschlüsse aus analysierten Daten prüfen:
   - Welche Methode erzeugt welche These?
@@ -248,9 +243,6 @@ Jeder Kurvenverlauf hat einen Grund
 
 ## Copy & Paste
 - Es gibt immer eine klare Roadmap, meistens sogar transparent!
-
-
-## Copy & Paste
 
 > [US Gun Deaths - Stolen Years](http://guns.periscopic.com/)
 
@@ -282,13 +274,9 @@ Jeder Kurvenverlauf hat einen Grund
 ![Scoup Faktor Datenherkunft](img/data/scoup_factor.jpg)
 
 
-## Scoup-Faktor
 ### "befreite" Daten
 > [Harmsworth](https://de.wikipedia.org/wiki/Alfred_Harmsworth,_1._Viscount_Northcliffe)/[Hearst](https://de.wikipedia.org/wiki/William_Randolph_Hearst)/[Orwell](https://de.wikipedia.org/wiki/George_Orwell):
 > Journalism is printing what someone else does not want printed, everything else is public relations
-
-
-## Daten finden
 
 
 ## Daten finden
@@ -331,7 +319,7 @@ Jeder Kurvenverlauf hat einen Grund
 - freebase.com -> [wikidata.org](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 
 
-## Meine Daten gibt es nicht.
+# Meine Daten gibt es nicht.
 
 
 ## Anrufen
@@ -358,21 +346,13 @@ http://slides.com/sjockers/crowdnewsroom-ddjnrw#/
 
 
 # Visualisierung
-
-
-# Visualisierung
 > "Recherchieren durch gucken"
 
-
-## Visualisierung
 - nicht erst am Ende
 - zeigen, wo man genauer hinschauen kann
 - zeigen andere Themen/Ansätze
 - zeigen Fallbeispiele
 - helfen beim Validieren
-
-
-## Visualisierung
 - ausprobieren:
     - verschiedene Achsen-Kombinationen
     - X-Achse: 0
@@ -389,17 +369,10 @@ Kurve | Entwicklung / kontinuierlich
 Karte | Ortsgebunden
 Tabelle | Kategorien
 
-
-## Visualisierung - Formen
 > etwas anderes verstehen wir kaum
 
-
-## Visualisierung
 - Trade-Off: Gut verständlich, aber nicht zu langweilig
 
-
-
-# Werkzeugkiste
 
 
 # Werkzeugkiste
@@ -492,7 +465,6 @@ Daten aus pdf extrahieren
 > ![Google Spreadsheets - Erkunden-Modus](img/tools/gdrive_erkunden.jpg)
 
 
-## Google Spreadsheets
 Vorteile | Nachteil
 -----|-----
 sehr intuitiv |
@@ -513,7 +485,6 @@ https://docs.google.com/spreadsheets/u/0/
 > ![Google Fusion Tables](img/tools/google_fusion.jpg)
 
 
-## Google Fusion Tables
 Vorteile | Nachteile
 -----|-----
 integriert |
@@ -533,7 +504,6 @@ https://support.google.com/fusiontables/answer/2571232
 > ![CartoDB Preview 2](img/tools/cartodb2.jpg)
 
 
-## CartoDB
 - viel schicker
 - kostenfreie & Pro-Version
 - [cartodb.com](https://cartodb.com)
@@ -544,7 +514,6 @@ https://support.google.com/fusiontables/answer/2571232
 ![Mapbox Preview](img/tools/mapbox.jpg)
 
 
-## Mapbox
 Vorteile | Nachteil
 ----- | -----
 mehr Design möglich |
@@ -556,8 +525,6 @@ Mapbox-Studio |
 > Infografiken auf Knopfdruck
 ![Datawrapper Preview](img/tools/datawrapper.jpg)
 
-
-## Datawrapper
 [datawrapper.de](https://datawrapper.de)
 
 Vorteile | Nachteile
@@ -606,9 +573,6 @@ sehr intuitiv | wenig customizable
 - [My first steps into data journalism and datavis](https://dinfografia.wordpress.com/2016/03/10/my-first-steps-into-data-journalism-and-datavis/)
 - [What I Use to Visualize Data](http://flowingdata.com/2016/03/08/what-i-use-to-visualize-data/)
 - [Create maps in R in 10 (fairly) easy steps](http://www.computerworld.com/article/3038270/data-analytics/create-maps-in-r-in-10-fairly-easy-steps.html)
-
-
-# Zum weiterlesen
 - [Using Excel to Do Precision Journalism](http://datadrivenjournalism.net/resources/using_excel_to_do_precision_journalism)
 - [ddj @zeitonline](http://www.zeit.de/datenjournalismus)
 - [OpenNews SOURCE](https://source.opennews.org/en-US/)
@@ -616,25 +580,16 @@ sehr intuitiv | wenig customizable
 - [Storytelling with Google Maps](https://sites.google.com/site/geomedialab/)
 - [The Quartz guide to bad data](http://qz.com/572338/the-quartz-guide-to-bad-data/)
 - [How to be a data journalist](http://www.theguardian.com/news/datablog/2010/oct/01/data-journalism-how-to-guide)
-
-
-# Zum weiterlesen
 - https://www.americanpressinstitute.org/publications/reports/strategy-studies/data-reporting-rise/
 - http://towcenter.org/the-art-and-science-of-data-driven-journalism/
 - https://dinfografia.wordpress.com/2016/03/10/my-first-steps-into-data-journalism-and-datavis/
 - http://schoolofdata.org/courses/#DataFundamentals
 - http://towcenter.org/wp-content/uploads/2014/05/Tow-Center-Data-Driven-Journalism.pdf
-
-
-# Zum weiterlesen
 - https://sites.google.com/site/geomedialab/
 - http://blog.chryswu.com/2016/03/08/nicar16-slides-links-tutorials-resources/
 - https://dinfografia.wordpress.com/2016/03/10/my-first-steps-into-data-journalism-and-datavis/
 - http://www.theguardian.com/world/ng-interactive/2015/aug/26/china-economic-slowdown-world-imports
 - http://www.bpb.de/gesellschaft/medien/opendata/64055/was-sind-offene-daten?utm_content=buffer37ed9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-
-
-# Zum weiterlesen
 - https://de.wikipedia.org/wiki/Datenjournalismus
 - http://opendata-network.org/2010/04/data-driven-journalism-versuch-einer-definition/
 - http://www.theguardian.com/data
